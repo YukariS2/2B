@@ -18,7 +18,27 @@ width: 20%;
 }
 .cabecalho-lista-item{
 display:inline-block;
-margin: 8 16px;
+margin: 0 16px;
 font-size: 24px;
+}
 
+.escola-imagem{
+width: 25%;
+}
+
+.escola{
+background-image: linear-gradient(lightpink, rgb(99, 5, 57) );
+color: floralwhite;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24xp 0;
 }
